@@ -39,8 +39,8 @@ The dashboard was designed to:<br>
 --> Support strategic decision-making through data visualization.<br>
 --> Identify trends, opportunities, and business risks.
 
---> Walkthrough of Key Visuals
---> KPI Cards
+--> Walkthrough of Key Visuals<br>
+--> KPI Cards<br>
 Displays important financial business metrics such as:<br>
 
 Total Revenue<br>
@@ -68,7 +68,6 @@ Marketing<br>
 Salaries<br>
 Logistics<br>
 Infrastructure<br>
-
 This visual helps businesses identify major cost areas and control unnecessary spending.<br>
 --> Regional/Branch Performance Analysis
 Compares financial performance across different regions, branches, or business units.
