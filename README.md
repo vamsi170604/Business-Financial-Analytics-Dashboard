@@ -54,31 +54,31 @@ These KPIs provide a quick overview of the company’s financial performance and
 
 -->  Revenue vs Expenses Analysis (Line Chart)<br>
 Compares monthly revenue and expenses to identify profitability trends, spending patterns, and overall financial performance over time.
-This visual helps businesses monitor financial stability and optimize budgeting strategies.
+This visual helps businesses monitor financial stability and optimize budgeting strategies.<br>
 --> Profit Analysis by Department (Bar Chart)<br>
 Shows department-wise contribution to total profit and highlights the most profitable business units.
-This helps management identify high-performing departments and areas requiring improvement.
+This helps management identify high-performing departments and areas requiring improvement.<br>
 --> Monthly Financial Trends (Area/Line Chart)<br>
 Visualizes monthly growth patterns, seasonal fluctuations, and overall business performance trends.
-It helps stakeholders understand how revenue and profit change over different time periods.
+It helps stakeholders understand how revenue and profit change over different time periods.<br>
 --> Expense Category Breakdown (Donut/Pie Chart)<br>
-Analyzes expense distribution across different categories such as:
-Operations
-Marketing
-Salaries
-Logistics
-Infrastructure
+Analyzes expense distribution across different categories such as:<br>
+Operations<br>
+Marketing<br>
+Salaries<br>
+Logistics<br>
+Infrastructure<br>
 
-This visual helps businesses identify major cost areas and control unnecessary spending.
+This visual helps businesses identify major cost areas and control unnecessary spending.<br>
 --> Regional/Branch Performance Analysis
 Compares financial performance across different regions, branches, or business units.
 This enables businesses to identify top-performing markets and regions with growth potential.
 
---> Business Impact & Insights : 
-📈 Improved Decision-Making: Enables stakeholders to make informed financial decisions using real-time insights.
-💰 Profit Optimization: Identifies high-performing products and profitable business areas.
-🌍 Regional Analysis: Helps compare regional performance and market opportunities.
-📊 Performance Monitoring: Simplifies KPI tracking and financial reporting.
+--> Business Impact & Insights : <br>
+📈 Improved Decision-Making: Enables stakeholders to make informed financial decisions using real-time insights.<br>
+💰 Profit Optimization: Identifies high-performing products and profitable business areas.<br>
+🌍 Regional Analysis: Helps compare regional performance and market opportunities.<br>
+📊 Performance Monitoring: Simplifies KPI tracking and financial reporting.<br>
 ⚡ Faster Analysis: Reduces manual effort by converting complex financial data into interactive visuals.
 
 Show what the dashboard looks like.
