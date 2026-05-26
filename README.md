@@ -5,11 +5,10 @@ The Financial Analytics Dashboard is a comprehensive Power BI project designed t
 This dashboard is useful for business analysts, finance teams, decision-makers, and organizations looking to track performance, identify growth opportunities, and improve financial planning.
 
 
-The dashboard was built using the following tools and technologies:
-
---> 📊 Power BI Desktop – Main platform used for dashboard creation and data visualization.
---> 📂 Power Query – Used for data transformation, cleaning, and preprocessing.
---> 🧠 DAX (Data Analysis Expressions) – Used for financial calculations, KPIs, and dynamic measures.
+The dashboard was built using the following tools and technologies:<br>
+--> 📊 Power BI Desktop – Main platform used for dashboard creation and data visualization.<br>
+--> 📂 Power Query – Used for data transformation, cleaning, and preprocessing.<br>
+--> 🧠 DAX (Data Analysis Expressions) – Used for financial calculations, KPIs, and dynamic measures.<br>
 --> 📁 File Formats – .pbix for Power BI reports and .png for dashboard previews.
 
 
@@ -21,11 +20,9 @@ Regional and category-wise sales
 Customer transaction details
 Product and market performance
 Monthly and yearly financial trends
-
 The data was cleaned and transformed using Power Query before being modeled in Power BI.
 
 📌 Business Problem
-
 Businesses generate large volumes of financial data daily, but extracting meaningful insights from spreadsheets and raw reports is time-consuming and inefficient.
 
 Which regions generate the highest revenue?
@@ -33,10 +30,8 @@ Which products or categories are most profitable?
 How are sales and profits changing over time?
 What areas require cost optimization?
 
-...can be difficult to analyze quickly using traditional spreadsheets.
 
 🎯 Goal of the Dashboard
-
 The dashboard was designed to:
 --> Provide a centralized view of financial performance.
 --> Track KPIs such as revenue, profit, and growth.
