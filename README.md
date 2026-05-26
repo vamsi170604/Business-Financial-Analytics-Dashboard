@@ -85,3 +85,6 @@ This enables businesses to identify top-performing markets and regions with grow
 🌍 Regional Analysis: Helps compare regional performance and market opportunities.
 📊 Performance Monitoring: Simplifies KPI tracking and financial reporting.
 ⚡ Faster Analysis: Reduces manual effort by converting complex financial data into interactive visuals.
+
+Show what the dashboard looks like.
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
