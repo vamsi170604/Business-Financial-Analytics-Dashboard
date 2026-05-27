@@ -1,4 +1,4 @@
-# Business-Financial-Analytics-Dashboard
+# Financial-Analytics-Dashboard
 An interactive and visually engaging Power BI dashboard built to analyze financial performance, revenue trends, profit distribution, and business growth metrics through dynamic visualizations and KPI tracking.
 
 # Purpose 
