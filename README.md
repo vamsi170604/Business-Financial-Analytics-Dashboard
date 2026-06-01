@@ -83,4 +83,4 @@ Analyzes expense distribution across different categories such as:<br>
 - ⚡ Faster Analysis: Reduces manual effort by converting complex financial data into interactive visuals.
 
 Show what the dashboard looks like.
-![Dashboard Preview](https://github.com/vamsi170604/Business-Financial-Analytics-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
+![Dashboard Preview](https://github.com/vamsi170604/Financial-Analytics-Dashboard/blob/main/Financial-Analytics-Dashboard.png)
